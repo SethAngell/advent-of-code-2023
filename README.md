@@ -6,4 +6,5 @@ A collection of solutions for Advent Of Code 2023!
 
 | Day   | Star Count | Solution                 |
 | ----- | ---------- | ------------------------ |
-| 01/12 | ⭐⭐       | [01.py](solutions/01.py) |
+| 01/12 | ⭐⭐        | [01.py](solutions/01.py) |
+| 02/12 | ⭐⭐        | [01.py](solutions/02.py) | 
